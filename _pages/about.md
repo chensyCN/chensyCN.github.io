@@ -34,11 +34,11 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - [*2023.09*] Our work [DiffLogic](https://openreview.net/forum?id=bETvUctiTR) is accepted to NeurIPS.
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=9Ro5HtwAAAAJ))
-<span style="color: #006400">**[†]: Corresponding Author**</span>, <span style="color: #000080">**[‡]: Co-first Author**</span>
+<span style="color: #006400">**[†]: Corresponding Author**</span>, <span style="color: #8B4513">**[‡]: Co-first Author**</span>
 
 ### Preprint:
 - **[Arxiv'25]** Zhishang Xiang, Chuanjie Wu, Qinggang Zhang, **Shengyuan Chen**, Zijin Hong, Xiao Huang, Jinsong Su, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690).
-- **[Arxiv'25]** Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
+- **[Arxiv'25]** Qinggang Zhang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[Arxiv'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2508.05690).
 
 
