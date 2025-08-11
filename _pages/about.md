@@ -33,17 +33,22 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[Paper](https://openreview.net/forum?id=qfCQ54ZTX1)\|[Code](https://github.com/chensyCN/llm4ea_official)] 
 - [*2023.09*] Our work [DiffLogic](https://openreview.net/forum?id=bETvUctiTR) is accepted to NeurIPS.
 
-# 📔 Selected Publications 
-<span style="color: #006400">**[Green]**</span>: Corresponding Author, <span style="color: #000080">**[Blue]**</span>: Co-first Author
-- Zhishang Xiang, Chuanjie Wu, Qinggang Zhang, **Shengyuan Chen**, Zijin Hong, Xiao Huang, Jinsong Su, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690), preprint, 2025.
-- Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc), ACL (main track), 2025.
-- Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS), ICML, 2025.
-- Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
-- Hao Chen, Yuanchen Bei, Wenbing Huang, **Shengyuan Chen**, Feiran Huang, Xiao Huang, [Graph Cross-Correlated Network for Recommendation](https://ieeexplore.ieee.org/document/10759834), TKDE, 2024
-- **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang, [Entity Alignment with Noisy Annotations from Large Language Models](https://openreview.net/forum?id=qfCQ54ZTX1), NeurIPS, 2024
-- **Shengyuan Chen**, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun, [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://openreview.net/forum?id=bETvUctiTR), NeurIPS, 2023
-- Yuanchen Bei, Hao Chen, **Shengyuan Chen**, Xiao Huang, Sheng Zhou, Feiran Huang, [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180), CIKM, 2023
-- Zirui Liu, **Shengyuan Chen**, Kaixiong Zhou, Daochen Zha, Xiao Huang, Xia Hu, [RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computation](https://openreview.net/forum?id=GnsqiJwDzN), ICML, 2023
+# 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=9Ro5HtwAAAAJ))
+<span style="color: #006400">**[†]: Corresponding Author**</span>, <span style="color: #000080">**[‡]: Co-first Author**</span>
+
+### Preprint:
+- **[Arxiv'25]** Zhishang Xiang, Chuanjie Wu, Qinggang Zhang, **Shengyuan Chen**, Zijin Hong, Xiao Huang, Jinsong Su, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690).
+- **[Arxiv'25]** Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
+- **[Arxiv'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2508.05690).
+
+
+### Published:
+
+- **[ACL'25]** Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen†**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc).
+- **[ICML'25]** Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen†**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS).
+- **[NeurIPS'24]** **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang, [Entity Alignment with Noisy Annotations from Large Language Models](https://openreview.net/forum?id=qfCQ54ZTX1).
+- **[NeurIPS'23]** **Shengyuan Chen**, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun, [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://openreview.net/forum?id=bETvUctiTR).
+- **[ICML'23]** Zirui Liu, **Shengyuan Chen**, Kaixiong Zhou, Daochen Zha, Xiao Huang, Xia Hu, [RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computation](https://openreview.net/forum?id=GnsqiJwDzN).
 
 # 💼 Academic Service
 
