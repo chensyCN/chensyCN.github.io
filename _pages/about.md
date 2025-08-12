@@ -37,7 +37,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 <span style="color: #006400">**[†]: Corresponding Author**</span>, <span style="color: #8B4513">**[‡]: Co-first Author**</span>
 
 ### Preprint:
-- **[Arxiv'25]** Zhishang Xiang, Chuanjie Wu, Qinggang Zhang, **Shengyuan Chen**, Zijin Hong, Xiao Huang, Jinsong Su, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690).
+- **[Arxiv'25]** **Shengyuan Chen**, Chuang Zhou, Zheng Yuan, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang, [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[Arxiv'25]** Qinggang Zhang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[Arxiv'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2508.05690).
 
@@ -50,13 +50,6 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - **[NeurIPS'23]** **Shengyuan Chen**, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun, [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://openreview.net/forum?id=bETvUctiTR).
 - **[ICML'23]** Zirui Liu, **Shengyuan Chen**, Kaixiong Zhou, Daochen Zha, Xiao Huang, Xia Hu, [RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computation](https://openreview.net/forum?id=GnsqiJwDzN).
 
-# 💼 Academic Service
-
-- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025); AAAI (2026)
-
-- **Reviewer:** TNNLS (2024-2025); TKDD
-
-<!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
 
 # 🏆 Honors and Awards
 - [*2025*] Postdoc Matching Fund ~ Two Years
@@ -67,6 +60,10 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - [*2018*] SCSK Corporation Scholarship
 - [*2015-2017*] National Scholarship of Encouragement and Support ~ Twice
 
-# 🎨 Miscellaneous
+# 💼 Academic Service
 
-In my leisure time, I am passionate about cooking, fishing, photography, and sports including hiking and jogging. I proudly completed a half marathon in 2019!
+- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025-2026); AAAI (2026)
+
+- **Reviewer:** TNNLS; TKDD 
+
+<!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
