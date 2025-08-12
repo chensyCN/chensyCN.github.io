@@ -39,7 +39,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 ### Preprint:
 - **[Arxiv'25]** **Shengyuan Chen**, Chuang Zhou, Zheng Yuan, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang, [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[Arxiv'25]** Qinggang Zhang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
-- **[Arxiv'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2508.05690).
+- **[Arxiv'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 
 
 ### Published:
