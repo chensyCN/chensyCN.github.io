@@ -24,6 +24,7 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, ACL, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
+- [*2025.09*] Our work [NeuSymEA](https://arxiv.org/abs/2410.04153) is accepted to NeurIPS.
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
 - [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL (main track).
@@ -39,11 +40,11 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 ### Preprint:
 - **[Arxiv'25]** **Shengyuan Chen**, Chuang Zhou, Zheng Yuan, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang, [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[Arxiv'25]** Qinggang Zhang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
-- **[Arxiv'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
+
 
 
 ### Published:
-
+- **[NeurIPS'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 - **[ACL'25]** Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen†**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc).
 - **[ICML'25]** Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen†**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS).
 - **[NeurIPS'24]** **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang, [Entity Alignment with Noisy Annotations from Large Language Models](https://openreview.net/forum?id=qfCQ54ZTX1).
@@ -62,8 +63,8 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 # 💼 Academic Service
 
-- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025-2026); AAAI (2026)
+- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025-2026); ICLR (2025-2026); AAAI (2026)
 
-- **Reviewer:** TNNLS; TKDD 
+- **Reviewer:** TNNLS; TKDD; TNSE 
 
 <!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
