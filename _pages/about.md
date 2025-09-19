@@ -24,7 +24,7 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, ACL, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
-- [*2025.09*] Our work [NeuSymEA](https://arxiv.org/abs/2410.04153) is accepted to NeurIPS.
+- [*2025.09*] Our work NeuSymEA is accepted to NeurIPS. [[Paper](https://arxiv.org/abs/2410.04153)\|[Code](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
 - [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL (main track).
@@ -44,7 +44,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 
 ### Published:
-- **[NeurIPS'25]** **Shengyuan Chen**, Qinggang Zhang, Zheng Yuan, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
+- **[NeurIPS'25]** **Shengyuan Chen**, Zheng Yuan, Qinggang Zhang, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 - **[ACL'25]** Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen†**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc).
 - **[ICML'25]** Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen†**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS).
 - **[NeurIPS'24]** **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang, [Entity Alignment with Noisy Annotations from Large Language Models](https://openreview.net/forum?id=qfCQ54ZTX1).
