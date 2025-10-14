@@ -24,6 +24,7 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, ACL, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
+- [*2025.10*] Our work [LinearRAG](https://arxiv.org/abs/2510.10114) is released, introducing token-free graph construction for GraphRAG with linear complexity!
 - [*2025.09*] Our work NeuSymEA is accepted to NeurIPS. [[Paper](https://arxiv.org/abs/2410.04153)\|[Code](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
 - [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
@@ -32,12 +33,13 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE.
 - [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[Paper](https://openreview.net/forum?id=qfCQ54ZTX1)\|[Code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
-- [*2023.09*] Our work [DiffLogic](https://openreview.net/forum?id=bETvUctiTR) is accepted to NeurIPS.
+
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=9Ro5HtwAAAAJ))
 <span style="color: #006400">**[†]: Corresponding Author**</span>, <span style="color: #8B4513">**[‡]: Co-first Author**</span>
 
 ### Preprint:
+- **[Arxiv'25]** Luyao Zhuang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang, [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
 - **[Arxiv'25]** **Shengyuan Chen**, Chuang Zhou, Zheng Yuan, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang, [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[Arxiv'25]** Qinggang Zhang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 
@@ -63,7 +65,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 # 💼 Academic Service
 
-- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025-2026); ICLR (2025-2026); AAAI (2026)
+- **Program Committee:** NeurIPS (2024-2025); ICML (2025); ICLR (2025-2026); AISTATS (2025-2026); AAAI (2026)
 
 - **Reviewer:** TNNLS; TKDD; TNSE 
 
