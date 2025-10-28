@@ -24,20 +24,14 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, ACL, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
-- [*2025.10*] We released [LinearRAG](https://arxiv.org/abs/2510.10114), a lightweight GraphRAG framework that eliminates **LLM token cost** during graph construction -- making GraphRAG faster and more efficient than ever.
-- [*2025.09*] Our work NeuSymEA is accepted to NeurIPS. [[Paper](https://arxiv.org/abs/2410.04153)\|[Code](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
+- [*2025.10*] We release LinearRAG, a lightweight GraphRAG framework that eliminates LLM token cost during graph construction and retrieval -- making GraphRAG faster and more efficient than ever. [[Paper](https://arxiv.org/abs/2510.10114)\|[Code](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
+- [*2025.09*] Our work NeuSymEA is accepted to NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Code](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
 - [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-
-
-<!-- - [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL (main track).
-- [*2025.05*] Our work SGU-SQL is accepted to ICML. [[Paper](https://openreview.net/forum?id=gT8JSEFqaS)\|[Code](https://github.com/Qing145/Text-to-SQL)]  -->
-
-- [2025.05] Two papers are accepted to [ACL (main track)](https://openreview.net/forum?id=WlEJovnbXc) and [ICML](https://openreview.net/forum?id=gT8JSEFqaS), respectively—kudos to my amazing collaborators! 🎉
-
+- [2025.05] Two papers are accepted to [ACL'25 (main)](https://openreview.net/forum?id=WlEJovnbXc) and [ICML'25](https://openreview.net/forum?id=gT8JSEFqaS), respectively. Kudos to my amazing collaborators! 🎉
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE.
-- [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[Paper](https://openreview.net/forum?id=qfCQ54ZTX1)\|[Code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
+- [*2024.09*] Our work LLM4EA is accepted to NeurIPS'24. [[Paper](https://openreview.net/forum?id=qfCQ54ZTX1)\|[Code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
 
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=9Ro5HtwAAAAJ))
@@ -64,8 +58,8 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - [*2023*] Departmental Top Conference Grant
 - [*2022*] Winner of "Most Appreciated Teaching Assistant" (~$30,000HKD)
 - [*2018*] Shanghai 'TI Cup' Undergraduate Electronic Design Contest ~ Second Price
-- [*2015-2018*] Fudan University Scholarship for Outstanding Students ~ Three Times
 - [*2018*] SCSK Corporation Scholarship
+- [*2015-2018*] Fudan University Scholarship for Outstanding Students ~ Three Times
 - [*2015-2017*] National Scholarship of Encouragement and Support ~ Twice
 
 # 💼 Academic Service
