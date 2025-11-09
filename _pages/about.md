@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/) (since 2024) at the Department of Computing, Hong Kong Polytechnic University. I earned my Ph.D. from the same department under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) (2021–2024). Prior to that, I obtained my B.E. from [Fudan University](https://www.fudan.edu.cn/).
 
-My research interests include **knowledge graphs, Large Language Models**, and **Retrieval-Augmented Generation**, with latest research presented at Top-tier Conferences including NeurIPS, ICML, AAAI, TKDE, ACL, CIKM. Currently, I am working on **Graph-based Retrieval-Augmented Generation (graphRAG).** 
+My research interests include **knowledge graphs, Large Language Models**, and **Retrieval-Augmented Generation (RAG)**, with latest research presented at Top-tier Venues including NeurIPS, ICML, AAAI, TKDE, ACL, CIKM. Currently, I am working on **Graph-based RAG.** 
 
 # 🎉 News
 - [*2025.11*] Our work [LogicRAG](https://arxiv.org/abs/2508.06105) is accepted to AAAI'26.
