@@ -24,7 +24,7 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **knowledge graphs, Large Language Models**, and **Retrieval-Augmented Generation (RAG)**, with latest research presented at Top-tier Venues including NeurIPS, ICML, AAAI, TKDE, ACL, CIKM. Currently, I am working on **Graph-based RAG.** 
 
 # 🎉 News
-- [*2025.11*] Our work LogicRAG is accepted to AAAI'26. [[Paper](https://arxiv.org/abs/2508.06105)\|[Code](https://github.com/chensyCN/Agentic-RAG)] [![](https://img.shields.io/github/stars/chensyCN/Agentic-RAG)](https://github.com/chensyCN/Agentic-RAG)
+- [*2025.11*] Our work LogicRAG is accepted to AAAI'26. [[Paper](https://arxiv.org/abs/2508.06105)\|[Code](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
 - [*2025.10*] We release LinearRAG, a lightweight GraphRAG framework that eliminates LLM token cost during graph construction and retrieval -- making GraphRAG faster and more efficient than ever. [[Paper](https://arxiv.org/abs/2510.10114)\|[Code](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2025.09*] Our work NeuSymEA is accepted to NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Code](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
