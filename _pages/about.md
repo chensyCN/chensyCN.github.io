@@ -64,7 +64,7 @@ My research interests include **knowledge graphs, Large Language Models**, and *
 
 # 💼 Academic Service
 
-- **Program Committee:** NeurIPS (2024-2025); ICML (2025); ICLR (2025-2026); AISTATS (2025-2026); AAAI (2026)
+- **Program Committee:** NeurIPS (2024-2025); ICML (2025-2026); ICLR (2025-2026); AISTATS (2025-2026); AAAI (2026)
 
 - **Reviewer:** TNNLS; TKDD; TNSE 
 
