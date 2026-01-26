@@ -21,14 +21,15 @@ redirect_from:
 
 I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/) (since 2024) at the Department of Computing, Hong Kong Polytechnic University. I earned my Ph.D. from the same department under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) (2021–2024). Prior to that, I obtained my B.E. from [Fudan University](https://www.fudan.edu.cn/).
 
-My research interests include **knowledge graphs, Large Language Models**, and **Retrieval-Augmented Generation (RAG)**, with latest research presented at Top-tier Venues including NeurIPS, ICML, AAAI, TKDE, ACL, CIKM. Currently, I am working on **Graph-based RAG.** 
+My research interests include **knowledge graphs, Large Language Models**, and **Retrieval-Augmented Generation (RAG)**, with latest research presented at Top-tier Venues including NeurIPS, ICML, ICLR, AAAI, TKDE, ACL, CIKM. Currently, I am working on **Graph-based RAG.** 
 
 # 🎉 News
+- [*2026.01*] Two papers accepted to ICLR.
+  - LinearRAG, an extremely efficient GraphRAG framework with zero token consumption: [[Paper](https://arxiv.org/abs/2510.10114)\|[Code](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
+  - GraphRAG-benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.11*] Our work LogicRAG is accepted to AAAI'26. [[Paper](https://arxiv.org/abs/2508.06105)\|[Code](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
-- [*2025.10*] We release LinearRAG, a lightweight GraphRAG framework that eliminates LLM token cost during graph construction and retrieval -- making GraphRAG faster and more efficient than ever. [[Paper](https://arxiv.org/abs/2510.10114)\|[Code](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2025.09*] Our work NeuSymEA is accepted to NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Code](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
-- [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [2025.05] Two papers are accepted to [ACL'25 (main)](https://openreview.net/forum?id=WlEJovnbXc) and [ICML'25](https://openreview.net/forum?id=gT8JSEFqaS), respectively. Kudos to my amazing collaborators! 🎉
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE.
@@ -39,11 +40,11 @@ My research interests include **knowledge graphs, Large Language Models**, and *
 <span style="color: #006400">**[†]: Corresponding Author**</span>, <span style="color: #8B4513">**[‡]: Co-first Author**</span>
 
 ### Preprint:
-- **[Arxiv'25]** Luyao Zhuang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang, [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
 - **[Arxiv'25]** Qinggang Zhang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 
 
 ### Published:
+- **[ICLR'26]** Luyao Zhuang, <span style="color: #8B4513">**Shengyuan Chen‡**</span>, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang, [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
 - **[AAAI'26]** **Shengyuan Chen**, Chuang Zhou, Zheng Yuan, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang, [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[NeurIPS'25]** **Shengyuan Chen**, Zheng Yuan, Qinggang Zhang, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 - **[ACL'25]** Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen†**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc).
